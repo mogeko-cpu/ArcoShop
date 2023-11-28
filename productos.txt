@@ -1,8 +1,1 @@
-0,1,56643,carro2,es un lamborllini aisjdsj que conduce su velocidafd a tres metros por segundo,3423.0, ,0
-520477646,1,12234556,silla,una gran silla,500.0, , 
-456456,1,56643,carro9,es un lamborllini a tres metros por segundo,3423.0, , 
-456455,1,56643,carro0,es un lamborllini a tres metros por segundo,3423.0, , 
-456459,1,56643,carro73,es un lamborllini a tres metros por segundo,3423.0, , 
-456458,1,56643,carro8,es un lamborllini a tres metros por segundo,3423.0, ,1
--431281486,-1239937449,354,Caña,Caña para pecar,30000.0, , 
-456457,1,56643,carro7,es un lamborllini a tres metros por segundo,3423.0, ,-1239937449
+
